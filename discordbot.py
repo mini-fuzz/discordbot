@@ -1,5 +1,5 @@
 # tokenkeycode.py というファイル名で以下の行を保存する 
-TOKEN = 'MTQwNDA3NjMwNjU4ODUwNDE1NA.GiGgUX.PduobsiGfIXPedYibChE3WejmibDpSWI6FUqAo'
+TOKEN = 'MTQwNDA3NjMwNjU4ODUwNDE1NA.G1K9kq.LtBxkC6Calno0Pcr3eHIUuY6aLgx6TH0_RhuZE'
 
 inputchannel = '凸報告'
 outputchannel = '状況報告'
