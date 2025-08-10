@@ -55,7 +55,7 @@ GachaData = []
 from os.path import expanduser
 from re import match, split
 from types import MemberDescriptorType
-import tokenkeycode
+#import tokenkeycode
 
 import asyncio
 import discord
