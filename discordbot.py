@@ -1,5 +1,5 @@
 # tokenkeycode.py というファイル名で以下の行を保存する 
-TOKEN = 'MTQwNDA3NjMwNjU4ODUwNDE1NA.G1K9kq.LtBxkC6Calno0Pcr3eHIUuY6aLgx6TH0_RhuZE'
+#TOKEN = 'MTQwNDA3NjMwNjU4ODUwNDE1NA.G1K9kq.LtBxkC6Calno0Pcr3eHIUuY6aLgx6TH0_RhuZE'
 
 inputchannel = '凸報告'
 outputchannel = '状況報告'
@@ -55,7 +55,7 @@ GachaData = []
 from os.path import expanduser
 from re import match, split
 from types import MemberDescriptorType
-#import tokenkeycode
+import tokenkeycode
 
 import asyncio
 import discord
@@ -3552,5 +3552,5 @@ GlobalStrage.Load()
 loop.start()
 
 # Botの起動とDiscordサーバーへの接続
-client.run(TOKEN)
+client.run(tokenkeycode.TOKEN)
 
