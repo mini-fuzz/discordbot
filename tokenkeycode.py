@@ -1,4 +1,0 @@
-#--ここから--
-TOKEN = 'MTQwNDA3NjMwNjU4ODUwNDE1NA.G6umj-.94H0fZT8B7MRNFmOTk2IM0sjO4qd1UdRg3aUK4'
-
-#--ここまで--
