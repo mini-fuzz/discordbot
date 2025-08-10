@@ -3552,5 +3552,5 @@ GlobalStrage.Load()
 loop.start()
 
 # Botの起動とDiscordサーバーへの接続
-client.run(.env)
+client.run(.env.TOKEN)
 
