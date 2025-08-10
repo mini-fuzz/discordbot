@@ -55,7 +55,7 @@ GachaData = []
 from os.path import expanduser
 from re import match, split
 from types import MemberDescriptorType
-import tokenkeycode
+import .env
 
 import asyncio
 import discord
@@ -3552,5 +3552,5 @@ GlobalStrage.Load()
 loop.start()
 
 # Botの起動とDiscordサーバーへの接続
-client.run(tokenkeycode.TOKEN)
+client.run(.env)
 
