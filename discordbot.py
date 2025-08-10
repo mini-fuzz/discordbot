@@ -1,5 +1,5 @@
 # tokenkeycode.py というファイル名で以下の行を保存する 
-# TOKEN = 'xxxxxxxxxxxxxxxxxxxxxxxx.yyyyyy.zzzzzzzzzzzzzzzzzzzzzzzzzzz'
+TOKEN = 'MTQwNDA3NjMwNjU4ODUwNDE1NA.GiGgUX.PduobsiGfIXPedYibChE3WejmibDpSWI6FUqAo'
 
 inputchannel = '凸報告'
 outputchannel = '状況報告'
@@ -3552,5 +3552,5 @@ GlobalStrage.Load()
 loop.start()
 
 # Botの起動とDiscordサーバーへの接続
-client.run(tokenkeycode.TOKEN)
+client.run(TOKEN)
 
